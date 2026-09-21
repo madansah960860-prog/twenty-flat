@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30"
+     fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="square"
+     role="img" aria-label="A square clock face with its hand at twenty minutes past">
+  <title>Twenty Flat</title>
+  <rect x="2" y="2" width="26" height="26"/>
+  <path d="M15 8v7l5 3"/>
+</svg>

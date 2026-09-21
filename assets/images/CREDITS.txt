@@ -1,0 +1,74 @@
+IMAGE CREDITS - Twenty Flat
+All photographs are downloaded and served locally from assets/images/.
+Nothing is hotlinked. No watermarks, no brand logos, no people at all in
+this set, which is this site's photographic direction: straight overhead,
+bright flat daylight, plate on a plain coloured backdrop.
+
+NOTE ON WHAT THE PHOTOGRAPHS SHOW: these are library photographs of the kind
+of dish each recipe describes, not photographs taken of these exact recipes.
+Alt text describes what is actually visible in each frame.
+
+Licence for every file: Pexels Licence - free for commercial and
+non-commercial use, no attribution required. Credit given voluntarily.
+====================================================================
+
+hero/hero-flatlay.jpg
+  title      : Indian curry and garnishes flat lay on white background
+  source     : https://www.pexels.com/photo/indian-curry-and-garnishes-flat-lay-on-white-background-35041652/
+
+dishes/garlic-butter-noodles.jpg
+  title      : Asian noodles with green pepper on a yellow background
+  source     : https://www.pexels.com/photo/a-dish-with-asian-noodles-with-green-pepper-standing-on-yellow-background-with-chopsticks-and-a-glass-of-water-15926288/
+
+dishes/chilli-paneer.jpg
+  title      : Indian-Chinese fusion meal with paneer
+  source     : https://www.pexels.com/photo/delicious-indian-chinese-fusion-meal-with-paneer-31783383/
+
+dishes/tuna-white-bean-salad.jpg
+  title      : Fresh vegetable and bean salad in a glass bowl
+  source     : https://www.pexels.com/photo/fresh-vegetable-and-bean-salad-in-glass-bowl-30615722/
+
+dishes/egg-fried-rice.jpg
+  title      : Curry and rice served on a blue plate
+  source     : https://www.pexels.com/photo/curry-and-rice-served-on-blue-plate-9213999/
+
+dishes/chana-masala.jpg
+  title      : Close-up of chana masala
+  source     : https://www.pexels.com/photo/close-up-of-chana-masala-9287035/
+
+dishes/sheet-pan-gnocchi.jpg
+  title      : Overhead shot of gnocchi with spinach leaves
+  source     : https://www.pexels.com/photo/overhead-shot-of-a-gold-fork-beside-a-plate-with-gnocchi-and-spinach-leaves-6659550/
+
+steps/step-noodles.jpg
+  title      : Asian-style pasta in bowls
+  photograph : Alleksana
+  source     : https://www.pexels.com/photo/asian-style-pasta-in-bowls-4223918/
+
+steps/step-peppers.jpg
+  title      : Bowls of noodles with chopsticks and bell peppers
+  photograph : Alleksana
+  source     : https://www.pexels.com/photo/bowls-of-noodles-with-chopsticks-and-bell-peppers-4223944/
+
+steps/step-chickpeas.jpg
+  title      : Close-up of chickpeas
+  source     : https://www.pexels.com/photo/close-up-of-chickpeas-6541648/
+
+steps/step-beans.jpg
+  title      : Parsley and beans beside avocado on a white surface
+  source     : https://www.pexels.com/photo/parsley-and-beans-beside-the-avocado-on-the-white-surface-4963466/
+
+steps/step-veg.jpg
+  title      : Fresh vegetables on plates
+  source     : https://www.pexels.com/photo/fresh-vegetables-on-plates-5386698/
+
+steps/step-plate.jpg
+  title      : Overhead shot of a white plate with a vegan dish
+  source     : https://www.pexels.com/photo/overhead-shot-of-a-white-plate-with-a-vegan-dish-6659552/
+
+og/og-twenty-flat.jpg
+  title      : Flat-lay shot of pasta on a white ceramic bowl
+  source     : https://www.pexels.com/photo/flatlay-shot-of-pasta-on-white-ceramic-bowl-8108042/
+
+--------------------------------------------------------------------
+assets/images/logo.svg and favicon.svg are hand-drawn for this site.
